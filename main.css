@@ -1,0 +1,528 @@
+nav {
+  text-transform: uppercase;
+  /* optional */
+  /* background-color: gainsboro; */
+  /* change this to your color choice */
+}
+
+nav ul {
+  display: flex;
+  /* makes it horizontal */
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  /* equally spaces the links */
+}
+
+nav li {
+  padding: 1rem;
+  list-style-type: none;
+  /* removes bullet points */
+}
+
+nav a {
+  /* navigation links */
+  padding: 7rem 2rem 0rem 2rem;
+  /* clickable space around links */
+  text-decoration: none;
+  /* removes link underlines */
+  /* change this to your color choice */
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+text-shadow: 1px 1px 5px white;
+}
+
+.home-button {
+  background-image: url(misc.\ images/button2.png);
+  background-position: center;
+  background-size: 40%;
+  background-repeat: no-repeat;
+  filter: drop-shadow(2px 2px 6px black);
+  padding: 8rem 3rem 0rem 3rem;
+}
+
+.home-button:hover {
+  background-size: 50%;
+}
+
+
+.crochet-button {
+  background-image: url(misc.\ images/button3.png);
+  background-position: center;
+  background-size: 24%;
+  padding: 8rem 3rem 0rem 3rem;
+  background-repeat: no-repeat;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.crochet-button:hover {
+  background-size: 35%;
+}
+
+.sewing-button {
+  background-image: url(misc.\ images/button4.png);
+  background-position: center;
+  background-size: 25%;
+  padding: 8rem 3rem 0rem 3rem;
+  background-repeat: no-repeat;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.sewing-button:hover {
+  background-size: 35%;
+}
+
+.other-button {
+  background-image: url(misc.\ images/button5.png);
+  background-position: center;
+  background-size: 23%;
+  padding: 8rem 3rem 0rem 3rem;
+  background-repeat: no-repeat;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.other-button:hover {
+  background-size: 35%;
+}
+
+header {
+  padding: 20px;
+  text-align: center;
+  background-image: url(misc.\ images/lacebanner.PNG);
+  background-position: center;
+  background-size: 100% 100%;
+  filter: drop-shadow(2px 2px 6px black);
+
+}
+
+header h1 {
+  font-size: 0%;
+  background-image: url(misc.\ images/title.png);
+  background-position: center;
+  background-size: 100% ;
+  background-repeat: no-repeat;
+  padding: 3.5rem;
+    filter: drop-shadow(2px 2px 6px black);
+}
+
+body {
+  background-image: url(misc.\ images/red.jpg);
+  min-width: 1000px;
+
+}
+
+.wrapper {
+  background-image: url(/misc.\ images/background2.png);
+  max-width: 1150px;
+  margin: 70px auto;
+  justify-content: center;
+  box-shadow: inset 4px 4px 8px black;
+  min-width: 1200px;
+}
+
+.homepage {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 400;
+  font-style: normal;
+  background-image: url(misc.\ images/rippedpaper.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  padding: 3rem;
+  text-shadow: .2px .2px 2px black;
+
+}
+
+.homepage h1 {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 1000;
+  font-style: normal;
+  padding: 2rem 30%;
+  font-size: large;
+
+
+}
+
+.postit {
+  padding: 0 30%;
+  font-size: medium;
+  line-height: 1.4rem;
+  min-width: fit-content;
+}
+
+.crochet {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1rem;
+  /* adjust this to the amount of space you want */
+  padding: 1rem;
+  align-items: flex-start;
+  align-content: center;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  font-weight: 550;
+  text-shadow: .2px .2px 2px black;
+}
+
+.crochet p {
+  font-size: 80%;
+  background-image: url(misc.\ images/note.png);
+  background-size: 115%;
+  padding: 80px 25px 20px 50px;
+}
+
+.cshorts img {
+  width: 100%;
+  height: 100%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.cshorts figcaption {
+  background-image: url(misc.\ images/tape1.png);
+  background-size: 100%;
+  padding: 1rem 1rem 1rem 2rem;
+  font-size: 85%;
+}
+
+.beach-bag img {
+  width: 75%;
+  height: 75%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.beach-bag figcaption {
+  background-image: url(misc.\ images/tape2.png);
+  background-size: 100%;
+  padding: 1rem 1rem 1rem 2rem;
+  font-size: 85%;
+}
+
+.ctop img {
+  width: 100%;
+  height: 100%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.ctop figcaption {
+  background-image: url(misc.\ images/tape2.png);
+  background-size: 100%;
+  padding: 1rem 1rem 1rem 2rem;
+  font-size: 85%;
+}
+
+.doily-bag img {
+  width: 100%;
+  height: 100%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.doily-bag figcaption {
+  background-image: url(misc.\ images/tape4.png);
+  background-size: 100%;
+  padding: 1rem 1.5rem 1rem 1.7rem;
+  font-size: 80%;
+}
+
+.kindle-cover img {
+  width: 75%;
+  height: 75%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.kindle-cover figcaption {
+  background-image: url(misc.\ images/tape3.png);
+  background-size: 100%;
+  padding: 1rem 1rem 0.1rem 2rem;
+  font-size: 80%;
+}
+
+.bday-hat img {
+  width: 100%;
+  height: 100%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.bday-hat figcaption {
+  background-image: url(misc.\ images/tape1.png);
+  background-size: 100%;
+  padding: 1rem 2rem 0.1rem 5rem;
+  font-size: 80%;
+}
+
+.bubble-bag img {
+  width: 100%;
+  height: 100%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.bubble-bag figcaption {
+  background-image: url(misc.\ images/tape4.png);
+  background-size: 100%;
+  padding: 1rem 2rem 0.1rem 2rem;
+  font-size: 80%;
+}
+
+.stocking img {
+  width: 75%;
+  height: 75%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.stocking figcaption {
+  background-image: url(misc.\ images/tape3.png);
+  background-size: 100%;
+  padding: 1rem 1rem 0.1rem 2rem;
+  font-size: 80%;
+}
+
+.sewing {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1rem;
+  /* adjust this to the amount of space you want */
+  padding: 1rem;
+  align-items: flex-start;
+  align-content: center;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  font-weight: 550;
+  text-shadow: .2px .2px 2px black;
+}
+
+.sewing p {
+  font-size: 80%;
+  background-image: url(misc.\ images/note.png);
+  background-size: 115%;
+  padding: 80px 25px 20px 50px;
+}
+
+.jeanskirt img {
+  width: 75%;
+  height: 75%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.jeanskirt figcaption {
+  background-image: url(misc.\ images/tape3.png);
+  background-size: 100%;
+  padding: 1.5rem 1rem 1.5rem 2rem;
+  font-size: 80%;
+}
+
+.costume1 img {
+  width: 50%;
+  height: 50%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.costume1 figcaption {
+  background-image: url(misc.\ images/tape2.png);
+  background-size: 100%;
+  padding: 2rem 1rem 3rem 2rem;
+  font-size: 80%;
+}
+
+.costume2 img {
+  width: 50%;
+  height: 50%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.costume2 figcaption {
+  background-image: url(misc.\ images/tape1.png);
+  background-size: 100%;
+  padding: 2rem 1rem 2rem 2rem;
+  font-size: 80%;
+}
+
+.pillow img {
+  width: 50%;
+  height: 50%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.pillow figcaption {
+  background-image: url(misc.\ images/tape4.png);
+  background-size: 100%;
+  padding: 1.5rem 1rem 1.5rem 2rem;
+  font-size: 80%;
+}
+
+.laptop img {
+  width: 75%;
+  height: 75%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.laptop figcaption {
+  background-image: url(misc.\ images/tape2.png);
+  background-size: 100%;
+  padding: 1.5rem 1rem 1.5rem 2rem;
+  font-size: 80%;
+}
+
+.shamrock img {
+  width: 75%;
+  height: 75%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.shamrock figcaption {
+  background-image: url(misc.\ images/tape1.png);
+  background-size: 100%;
+  padding: 1rem 2rem 0.1rem 3.5rem;
+  font-size: 80%;
+}
+
+.bshorts img {
+  width: 75%;
+  height: 75%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.bshorts figcaption {
+  background-image: url(misc.\ images/tape3.png);
+  background-size: 100%;
+  padding: 2rem 1rem 2rem 2rem;
+  font-size: 80%;
+}
+.others {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1rem;
+  /* adjust this to the amount of space you want */
+  padding: 1rem;
+  align-items: flex-start;
+  align-content: center;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  font-weight: 550;
+  text-shadow: .2px .2px 2px black;
+}
+
+.others p {
+  font-size: 80%;
+  background-image: url(misc.\ images/note.png);
+  background-size: 115%;
+  padding: 80px 25px 20px 50px;
+}
+.robin img {
+  width: 40%;
+  height: 40%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.robin figcaption {
+  background-image: url(misc.\ images/tape4.png);
+  background-size: 100%;
+  padding: 1rem 1.5rem .5rem 1.5rem;
+  font-size: 80%;
+}
+.vase1 img {
+  width: 50%;
+  height: 50%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.vase1 figcaption {
+  background-image: url(misc.\ images/tape1.png);
+  background-size: 100%;
+  padding: 2rem 1rem 2rem 2rem;
+  font-size: 80%;
+}
+.photo img {
+  width: 75%;
+  height: 75%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.photo figcaption {
+  background-image: url(misc.\ images/tape4.png);
+  background-size: 100%;
+  padding: 2rem 2rem 1rem 2rem;
+  font-size: 80%;
+}
+.pillow1 img {
+  width: 75%;
+  height: 75%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.pillow1 figcaption {
+  background-image: url(misc.\ images/tape4.png);
+  background-size: 100%;
+  padding: 1rem 2rem .5rem 2rem;
+  font-size: 80%;
+}
+.bracelet img {
+  width: 75%;
+  height: 75%;
+  filter: drop-shadow(2px 2px 6px black);
+  padding: 2rem;
+}
+
+.bracelet figcaption {
+  background-image: url(misc.\ images/tape2.png);
+  background-size: 100%;
+  padding: 2rem 1rem 1rem 2rem;
+  font-size: 80%;
+}
+.vase2 img {
+  width: 50%;
+  height: 50%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.vase2 figcaption {
+  background-image: url(misc.\ images/tape1.png);
+  background-size: 100%;
+  padding: 2rem 1rem 2rem 3rem;
+  font-size: 80%;
+}
+.pillow2 img {
+  width: 75%;
+  height: 75%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+
+.pillow2 figcaption {
+  background-image: url(misc.\ images/tape1.png);
+  background-size: 100%;
+  padding: 2rem 1rem 2rem 3rem;
+  font-size: 80%;
+}
+video{
+  height: 200px;
+}
+.video figcaption{
+  background-image: url(misc.\ images/tape2.png);
+  background-size: 100%;
+  padding: 2rem 1rem 1rem 2rem;
+  font-size: 80%;
+}
+.song img{
+  width: 75%;
+  height: 75%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+.song figcaption{
+  background-image: url(misc.\ images/tape3.png);
+  background-size: 100%;
+  padding: 2rem 1rem 1rem 2rem;
+  font-size: 80%;
+}
+.wire img{
+  width: 50%;
+  height: 50%;
+  filter: drop-shadow(2px 2px 6px black);
+}
+.wire figcaption{
+  background-image: url(misc.\ images/tape3.png);
+  background-size: 100%;
+  padding: 2rem 1rem 2rem 2rem;
+  font-size: 80%;
+}
