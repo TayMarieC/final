@@ -34,7 +34,7 @@ text-shadow: 1px 1px 5px white;
 }
 
 .home-button {
-  background-image: url(misc.\ images/button2.png);
+  background-image: url(misc.\ images/button2.PNG);
   background-position: center;
   background-size: 40%;
   background-repeat: no-repeat;
@@ -48,7 +48,7 @@ text-shadow: 1px 1px 5px white;
 
 
 .crochet-button {
-  background-image: url(misc.\ images/button3.png);
+  background-image: url(misc.\ images/button3.PNG);
   background-position: center;
   background-size: 24%;
   padding: 8rem 3rem 0rem 3rem;
@@ -61,7 +61,7 @@ text-shadow: 1px 1px 5px white;
 }
 
 .sewing-button {
-  background-image: url(misc.\ images/button4.png);
+  background-image: url(misc.\ images/button4.PNG);
   background-position: center;
   background-size: 25%;
   padding: 8rem 3rem 0rem 3rem;
@@ -74,7 +74,7 @@ text-shadow: 1px 1px 5px white;
 }
 
 .other-button {
-  background-image: url(misc.\ images/button5.png);
+  background-image: url(misc.\ images/button5.PNG);
   background-position: center;
   background-size: 23%;
   padding: 8rem 3rem 0rem 3rem;
@@ -98,7 +98,7 @@ header {
 
 header h1 {
   font-size: 0%;
-  background-image: url(misc.\ images/title.png);
+  background-image: url(misc.\ images/title.PNG);
   background-position: center;
   background-size: 100% ;
   background-repeat: no-repeat;
@@ -107,13 +107,13 @@ header h1 {
 }
 
 body {
-  background-image: url(misc.\ images/red.jpg);
+  background-image: url(misc.\ images/red.JPG);
   min-width: 1000px;
 
 }
 
 .wrapper {
-  background-image: url(/misc.\ images/background2.png);
+  background-image: url(/misc.\ images/background2.PNG);
   max-width: 1150px;
   margin: 70px auto;
   justify-content: center;
@@ -125,7 +125,7 @@ body {
   font-family: 'Courier New', Courier, monospace;
   font-weight: 400;
   font-style: normal;
-  background-image: url(misc.\ images/rippedpaper.png);
+  background-image: url(misc.\ images/rippedpaper.PNG);
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
@@ -168,7 +168,7 @@ body {
 
 .crochet p {
   font-size: 80%;
-  background-image: url(misc.\ images/note.png);
+  background-image: url(misc.\ images/note.PNG);
   background-size: 115%;
   padding: 80px 25px 20px 50px;
 }
@@ -180,7 +180,7 @@ body {
 }
 
 .cshorts figcaption {
-  background-image: url(misc.\ images/tape1.png);
+  background-image: url(misc.\ images/tape1.PNG);
   background-size: 100%;
   padding: 1rem 1rem 1rem 2rem;
   font-size: 85%;
@@ -193,7 +193,7 @@ body {
 }
 
 .beach-bag figcaption {
-  background-image: url(misc.\ images/tape2.png);
+  background-image: url(misc.\ images/tape2.PNG);
   background-size: 100%;
   padding: 1rem 1rem 1rem 2rem;
   font-size: 85%;
@@ -206,7 +206,7 @@ body {
 }
 
 .ctop figcaption {
-  background-image: url(misc.\ images/tape2.png);
+  background-image: url(misc.\ images/tape2.PNG);
   background-size: 100%;
   padding: 1rem 1rem 1rem 2rem;
   font-size: 85%;
@@ -219,7 +219,7 @@ body {
 }
 
 .doily-bag figcaption {
-  background-image: url(misc.\ images/tape4.png);
+  background-image: url(misc.\ images/tape4.PNG);
   background-size: 100%;
   padding: 1rem 1.5rem 1rem 1.7rem;
   font-size: 80%;
@@ -232,7 +232,7 @@ body {
 }
 
 .kindle-cover figcaption {
-  background-image: url(misc.\ images/tape3.png);
+  background-image: url(misc.\ images/tape3.PNG);
   background-size: 100%;
   padding: 1rem 1rem 0.1rem 2rem;
   font-size: 80%;
@@ -245,7 +245,7 @@ body {
 }
 
 .bday-hat figcaption {
-  background-image: url(misc.\ images/tape1.png);
+  background-image: url(misc.\ images/tape1.PNG);
   background-size: 100%;
   padding: 1rem 2rem 0.1rem 5rem;
   font-size: 80%;
@@ -258,7 +258,7 @@ body {
 }
 
 .bubble-bag figcaption {
-  background-image: url(misc.\ images/tape4.png);
+  background-image: url(misc.\ images/tape4.PNG);
   background-size: 100%;
   padding: 1rem 2rem 0.1rem 2rem;
   font-size: 80%;
@@ -271,7 +271,7 @@ body {
 }
 
 .stocking figcaption {
-  background-image: url(misc.\ images/tape3.png);
+  background-image: url(misc.\ images/tape3.PNG);
   background-size: 100%;
   padding: 1rem 1rem 0.1rem 2rem;
   font-size: 80%;
@@ -294,7 +294,7 @@ body {
 
 .sewing p {
   font-size: 80%;
-  background-image: url(misc.\ images/note.png);
+  background-image: url(misc.\ images/note.PNG);
   background-size: 115%;
   padding: 80px 25px 20px 50px;
 }
@@ -306,7 +306,7 @@ body {
 }
 
 .jeanskirt figcaption {
-  background-image: url(misc.\ images/tape3.png);
+  background-image: url(misc.\ images/tape3.PNG);
   background-size: 100%;
   padding: 1.5rem 1rem 1.5rem 2rem;
   font-size: 80%;
@@ -319,7 +319,7 @@ body {
 }
 
 .costume1 figcaption {
-  background-image: url(misc.\ images/tape2.png);
+  background-image: url(misc.\ images/tape2.PNG);
   background-size: 100%;
   padding: 2rem 1rem 3rem 2rem;
   font-size: 80%;
@@ -332,7 +332,7 @@ body {
 }
 
 .costume2 figcaption {
-  background-image: url(misc.\ images/tape1.png);
+  background-image: url(misc.\ images/tape1.PNG);
   background-size: 100%;
   padding: 2rem 1rem 2rem 2rem;
   font-size: 80%;
@@ -345,7 +345,7 @@ body {
 }
 
 .pillow figcaption {
-  background-image: url(misc.\ images/tape4.png);
+  background-image: url(misc.\ images/tape4.PNG);
   background-size: 100%;
   padding: 1.5rem 1rem 1.5rem 2rem;
   font-size: 80%;
@@ -358,7 +358,7 @@ body {
 }
 
 .laptop figcaption {
-  background-image: url(misc.\ images/tape2.png);
+  background-image: url(misc.\ images/tape2.PNG);
   background-size: 100%;
   padding: 1.5rem 1rem 1.5rem 2rem;
   font-size: 80%;
@@ -371,7 +371,7 @@ body {
 }
 
 .shamrock figcaption {
-  background-image: url(misc.\ images/tape1.png);
+  background-image: url(misc.\ images/tape1.PNG);
   background-size: 100%;
   padding: 1rem 2rem 0.1rem 3.5rem;
   font-size: 80%;
@@ -384,7 +384,7 @@ body {
 }
 
 .bshorts figcaption {
-  background-image: url(misc.\ images/tape3.png);
+  background-image: url(misc.\ images/tape3.PNG);
   background-size: 100%;
   padding: 2rem 1rem 2rem 2rem;
   font-size: 80%;
@@ -406,7 +406,7 @@ body {
 
 .others p {
   font-size: 80%;
-  background-image: url(misc.\ images/note.png);
+  background-image: url(misc.\ images/note.PNG);
   background-size: 115%;
   padding: 80px 25px 20px 50px;
 }
@@ -417,7 +417,7 @@ body {
 }
 
 .robin figcaption {
-  background-image: url(misc.\ images/tape4.png);
+  background-image: url(misc.\ images/tape4.PNG);
   background-size: 100%;
   padding: 1rem 1.5rem .5rem 1.5rem;
   font-size: 80%;
@@ -429,7 +429,7 @@ body {
 }
 
 .vase1 figcaption {
-  background-image: url(misc.\ images/tape1.png);
+  background-image: url(misc.\ images/tape1.PNG);
   background-size: 100%;
   padding: 2rem 1rem 2rem 2rem;
   font-size: 80%;
@@ -441,7 +441,7 @@ body {
 }
 
 .photo figcaption {
-  background-image: url(misc.\ images/tape4.png);
+  background-image: url(misc.\ images/tape4.PNG);
   background-size: 100%;
   padding: 2rem 2rem 1rem 2rem;
   font-size: 80%;
@@ -453,7 +453,7 @@ body {
 }
 
 .pillow1 figcaption {
-  background-image: url(misc.\ images/tape4.png);
+  background-image: url(misc.\ images/tape4.PNG);
   background-size: 100%;
   padding: 1rem 2rem .5rem 2rem;
   font-size: 80%;
@@ -466,7 +466,7 @@ body {
 }
 
 .bracelet figcaption {
-  background-image: url(misc.\ images/tape2.png);
+  background-image: url(misc.\ images/tape2.PNG);
   background-size: 100%;
   padding: 2rem 1rem 1rem 2rem;
   font-size: 80%;
@@ -478,7 +478,7 @@ body {
 }
 
 .vase2 figcaption {
-  background-image: url(misc.\ images/tape1.png);
+  background-image: url(misc.\ images/tape1.PNG);
   background-size: 100%;
   padding: 2rem 1rem 2rem 3rem;
   font-size: 80%;
@@ -490,7 +490,7 @@ body {
 }
 
 .pillow2 figcaption {
-  background-image: url(misc.\ images/tape1.png);
+  background-image: url(misc.\ images/tape1.PNG);
   background-size: 100%;
   padding: 2rem 1rem 2rem 3rem;
   font-size: 80%;
@@ -499,7 +499,7 @@ video{
   height: 200px;
 }
 .video figcaption{
-  background-image: url(misc.\ images/tape2.png);
+  background-image: url(misc.\ images/tape2.PNG);
   background-size: 100%;
   padding: 2rem 1rem 1rem 2rem;
   font-size: 80%;
@@ -510,7 +510,7 @@ video{
   filter: drop-shadow(2px 2px 6px black);
 }
 .song figcaption{
-  background-image: url(misc.\ images/tape3.png);
+  background-image: url(misc.\ images/tape3.PNG);
   background-size: 100%;
   padding: 2rem 1rem 1rem 2rem;
   font-size: 80%;
@@ -521,8 +521,23 @@ video{
   filter: drop-shadow(2px 2px 6px black);
 }
 .wire figcaption{
-  background-image: url(misc.\ images/tape3.png);
+  background-image: url(misc.\ images/tape3.PNG);
   background-size: 100%;
   padding: 2rem 1rem 2rem 2rem;
   font-size: 80%;
+}
+footer{
+  display: flex;
+  padding: 1em;
+  justify-content: space-around;
+  align-items: center;
+}
+footer a{
+  font-size: 160%;
+  text-decoration: none;
+  color: black;
+  filter: drop-shadow(2px 2px 6px black);
+}
+footer a:hover{
+  text-shadow: 0 0 5px white;
 }
