@@ -547,6 +547,7 @@ footer {
   justify-content: space-around;
   align-items: center;
   background-image: url(misc.\ images/ribbon3.PNG);
+  filter: drop-shadow(2px 2px 6px black);
   background-position: center;
   background-size: 10%;
   background-repeat: repeat-x;
